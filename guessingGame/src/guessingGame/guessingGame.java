@@ -6,7 +6,8 @@ public class guessingGame
  * 9/26/17
  * Guessing Game
  * 
- * Yerr Jefferson changed this. againagianngai
+ * Yerr Jefferson changed this. 
+ * last one
  */
 {
 	public static void main (String[] args)
