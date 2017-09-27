@@ -7,7 +7,7 @@ public class guessingGame
  * Guessing Game
  * 
  * Yerr Jefferson changed this. 
- * last one
+ * last one.
  */
 {
 	public static void main (String[] args)
